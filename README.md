@@ -1,7 +1,6 @@
-# Dual-Coding-Agents
-A Dual-Coding Architecture for Intelligent Social Agents
-A Dual-Coding Architecture for Intelligent Social Agents
-
+# A Dual-Coding Architecture for Intelligent Social Agents
+*** 
+ 
 ## 1.	Overview
 
 ### 1.1)	Agent System
