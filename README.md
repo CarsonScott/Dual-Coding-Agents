@@ -1,7 +1,30 @@
 # A Dual-Coding Architecture for Intelligent Social Agents
-*** 
- 
-## 1.	Overview
+
+
+## Table of Contents
+
+1. __Introduction__
+    1. Agent System
+    2. Situated Cognition
+    3. Social Importance
+
+2. __Perceptual Systems__
+    1. Sensory Reception
+    2. Symbolic Communication
+    3. Global Representation
+
+3. __Memory Systems__
+    1. Sensory Learning
+    2. Symbolic Development
+    3. Multimodal Integration
+
+4. __Behavioral Systems__
+    1. Physical Action
+    2. Social Performance
+    3. Intentional Motive
+  
+  
+## 1) Introduction
 
 ### 1.1)	Agent System
 
@@ -20,7 +43,7 @@ Social behavior is carried out by a system of signals received by other agents. 
 Similarly, agents transmit ideas back and forth in order to learn from others as well as teach them. The certain mental processes that result in this communication mechanism are beyond any agent’s control, but one may learn how these mechanisms work in order to increase its control over itself and the environment.
 
  
-## 2.	Perception
+## 2)	Perceptual Systems
 
 ### 2.1)	Sensory Reception
 
@@ -29,10 +52,29 @@ Agents receive inputs from a two-dimensional array of receptors from their physi
 Nodes can take form as one of two individual types of contract detection, called on-center and off-center. Each type responds to relational patterns between center and surrounding receptors in a unique way. The response patterns of each type are shown in the table below.
 ![](https://github.com/CarsonScott/Dual-Coding-Agents/blob/master/img/Receptor%20Nodes.png)
 
-### 2.2)	Symbolic Interaction
+### 2.2)	Symbolic Communication
 
 Agents receive signals one a one dimensional array of receptors from the social environment. Each receptor holds a value between 1 and 0, which depends on the frequency of the input and the associated range of the receptor. 
 
 The receptive field has structure-preserving connections to a set of nodes, which are specialized to detect contrast over time. Each node is assigned a frequency range and will detect if the input signal falls within that range.
 
 ![](https://github.com/CarsonScott/Dual-Coding-Agents/blob/master/img/Frequency%20Nodes.png)
+
+### 2.3) Global Representation
+
+# 3) Memory Systems
+
+### 3.1) Sensory Learning
+
+### 3.2) Symbolic Development
+
+### 3.3) Multimodal Integration
+
+# 4) Behavioral Systems
+
+### 4.1) Physical Action
+
+### 4.2) Social Performance
+
+### 4.3) Active Intention
+
