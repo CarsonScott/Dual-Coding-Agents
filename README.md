@@ -65,6 +65,8 @@ The receptive field has structure-preserving connections to a set of nodes, whic
 
 ### 2.3) Global Representation
 
+The way that information is processed when received by the sensory system is a way of transforming data into a global format shared amongst every piece of knowledge that is stored by the agent. Neurons allow a common representation among different domains so that when combined they can form a higher representation that no single domain can produce in isolation.
+
 ---
 
 # 3) Memory Systems
