@@ -67,7 +67,6 @@ The receptive field has structure-preserving connections to a set of nodes, whic
 
 A neurons function as a universal memory format which encodes information from multiple domains, enabling construction of multimodal representations and providing the agent with insight unobtainable by any one independent system.
 
-
 ---
 
 # 3) Memory Systems
@@ -85,6 +84,10 @@ A neurons function as a universal memory format which encodes information from m
 ### 4.1) Physical Action
 
 ### 4.2) Social Performance
+
+Agents produce verbal signals that travel through communication lines in order to transmit messages to the population. The motor system that allows agents to interact in this way is made up of a single sinoidal function called the signal and collection of filter functions. Agents produce outputs by selectively switching filters on and off in order to send a meaningful signal to the population.
+
+An output signal is simply a convolution of trigonometric functions with a set of kernel functions over a one-dimensional space.
 
 ### 4.3) Active Intention
 
