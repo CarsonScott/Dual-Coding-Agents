@@ -65,7 +65,8 @@ The receptive field has structure-preserving connections to a set of nodes, whic
 
 ### 2.3) Global Representation
 
-A neuron functions as a universal memory format which encodes information from multiple domains, enabling construction of multimodal representations and providing the agent with insight unobtainable using any one independent system alone.
+A neurons function as a universal memory format which encodes information from multiple domains, enabling construction of multimodal representations and providing the agent with insight unobtainable by any one independent system.
+
 
 ---
 
